@@ -1,5 +1,5 @@
 PV = "4.4.0+git"
-SRCREV = "8f645256efc0dc66bd5c118778b0b50c44469ae1"
+SRCREV = "012cdca49db398693903e05c42a254a3a0c0d8f2"
 
 SRC_URI:remove = " \
     file://0001-checkconf.mk-do-not-use-full-path-to-generate-guard-.patch \
