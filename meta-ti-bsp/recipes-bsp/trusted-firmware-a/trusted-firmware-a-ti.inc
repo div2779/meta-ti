@@ -1,6 +1,6 @@
 PV:k3 = "2.11+git"
 SRCREV_tfa:k3 = "00f1ec6b8740ccd403e641131e294aabacf2a48b"
-LIC_FILES_CHKSUM:k3 = "file://docs/license.rst;md5=83b7626b8c7a37263c6a58af8d19bee1"
+LIC_FILES_CHKSUM:k3 = "file://docs/license.rst;md5=b2c740efedc159745b9b31f88ff03dde"
 SRC_URI:k3 = "git://git.trustedfirmware.org/TF-A/trusted-firmware-a.git;protocol=https;name=tfa;branch=master"
 COMPATIBLE_MACHINE:k3 = "k3"
 TFA_BUILD_TARGET:k3 = "all"
